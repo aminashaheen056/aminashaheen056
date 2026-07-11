@@ -1,33 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:2C6E7F&height=200&section=header&text=Amina%20Shaheen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20%26%20App%20Developer&descAlignY=58&descSize=20" />
+# Hi there, I'm Amina Shaheen 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+responsive+web+apps;Turning+ideas+into+working+code;Open+to+Web+%26+Mobile+Dev+Internships&font=Fira%20Code&center=true&width=550&height=45&color=2C6E7F&vCenter=true&size=22&pause=1000" />
+### Software Engineering Student | Web & App Developer in the making
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+responsive+web+apps;Learning+something+new+every+day;Open+to+Web+%26+Mobile+Dev+Internships&font=Fira%20Code&center=true&width=500&height=45&color=2C6E7F&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=aminashaheen056&style=flat-square&color=2C6E7F&label=Profile+Views)](https://github.com/aminashaheen056)
 
 </div>
 
-<br>
+---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-```yaml
-name: Amina Shaheen
-role: Software Engineering Student @ COMSATS University Islamabad
-focus: Frontend Web Development → learning Full-Stack (Flask + MySQL)
-looking_for: Web Development / Mobile Development Internship
-currently_learning: [Backend APIs, Databases, Networking fundamentals]
-fun_fact: "I debug with logic first, print statements second 😄"
-```
+- 🎓 BSSE student at **COMSATS University Islamabad** (Sahiwal Campus)
+- 💻 Currently focused on **Frontend Web Development**, with growing experience in backend and databases
+- 🌱 Learning to build full-stack applications with **Python (Flask)** and **MySQL**
+- 🤝 Previously interned as a **Frontend Web Developer** building responsive UI with HTML, CSS & JavaScript
+- 🎯 Looking for **Web Development / Mobile Development internship** opportunities
+- ⚡ Fun fact: I like solving problems as much with pen-and-paper logic as with code
 
-<br>
+---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -39,105 +36,41 @@ fun_fact: "I debug with logic first, print statements second 😄"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<br>
+---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description | Tech |
+|---|---|---|
+| 🔗 [**To-Do List Web App**](https://github.com/aminashaheen056/TODO-List) | Full-stack task manager — add, edit, complete & delete tasks with a live progress tracker | Flask · HTML · CSS · JavaScript |
+| 🔗 [**Secure Notes & Stego System**](https://github.com/aminashaheen056/Secure-notes-Stego-System) | Hides sensitive data inside text notes and audio files using steganography techniques | Python |
+| 🔗 [**Secure Information & DLP System**](https://github.com/aminashaheen056/Secure-Information-DLP-System) | Data loss prevention system to detect, monitor, and protect sensitive information | Python · HTML · CSS · MySQL |
+| 🏨 **Hotel Management System** | Desktop app to manage room booking, customer registration & billing | Java (Swing) · MySQL |
+| 🌐 **Smart University Campus Network** | Simulated a secure, VLAN-segmented campus network with routing, NAT & DNS/DHCP | Cisco Packet Tracer |
 
-### 📝 [To-Do List Web App](https://github.com/aminashaheen056/TODO-List)
-Full-stack task manager with a Flask REST API backend — add, edit, complete & delete tasks with a live progress tracker.
+---
 
-`Flask` `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### 🔐 [Secure Notes & Stego System](https://github.com/aminashaheen056/Secure-notes-Stego-System)
-Hides sensitive data inside text notes and audio files using steganography and basic encryption.
-
-`Python` `Information Security`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ [Secure Information & DLP System](https://github.com/aminashaheen056/Secure-Information-DLP-System)
-Data loss prevention system to detect, monitor, and protect sensitive information with access control.
-
-`Python` `HTML` `CSS` `MySQL`
-
-</td>
-<td width="50%">
-
-### 🏨 Hotel Management System
-Desktop app to manage room booking, customer registration, and centralized billing.
-
-`Java (Swing)` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Smart University Campus Network
-Simulated a secure, VLAN-segmented campus network with routing, NAT, DHCP & DNS.
-
-`Cisco Packet Tracer` `Networking`
-
-</td>
-<td width="50%">
-
-### 🤖 Obstacle Avoiding Robot
-Real-time obstacle detection and navigation using ultrasonic sensors.
-
-`Arduino` `Embedded Systems`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aminashaheen056&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=percentile" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminashaheen056&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aminashaheen056&layout=compact&hide_border=true&theme=default" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aminashaheen056&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminashaheen056&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aminashaheen056&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
 
-*💡 Open to Web & Mobile Development internship opportunities  let's build something great together!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C6E7F,100:1F2A44&height=100&section=footer" />
+*Open to Web & Mobile Development internship opportunities — feel free to reach out!*
 
 </div>
