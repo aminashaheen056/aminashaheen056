@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Amina Shaheen 👋
+# Hi there, I'm Amina Shaheen 
 
 ### Software Engineering Student | Web & App Developer in the making
 
