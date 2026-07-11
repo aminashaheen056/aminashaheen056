@@ -10,8 +10,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=aminashaheen056&style=flat-square&color=2C6E7F&label=Profile+Views)](https://github.com/aminashaheen056)
 
-📧 **aminashaheen804@gmail.com** *(tap badge above or copy this if your device has no default mail app)*
-
 </div>
 
 <br>
@@ -41,7 +39,6 @@ fun_fact: "I debug with logic first, print statements second 😄"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
