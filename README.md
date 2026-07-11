@@ -20,7 +20,7 @@
 - 🌱 Learning to build full-stack applications with **Python (Flask)** and **MySQL**
 - 🤝 Previously interned as a **Frontend Web Developer** building responsive UI with HTML, CSS & JavaScript
 - 🎯 Looking for **Web Development / Mobile Development internship** opportunities
-- ⚡ Fun fact: I like solving problems as much with pen-and-paper logic as with code
+
 
 ---
 
@@ -71,6 +71,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
 
-*Open to Web & Mobile Development internship opportunities — feel free to reach out!*
+*Open to Web & Mobile Development internship opportunities  feel free to reach out!*
 
 </div>
