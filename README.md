@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Amina Shaheen 
+# Hi there, I'm Amina Shaheen 👋
 
 ### Software Engineering Student | Web & App Developer in the making
 
@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
+
+📧 **aminashaheen804@gmail.com**
 
 </div>
 
@@ -20,7 +22,6 @@
 - 🌱 Learning to build full-stack applications with **Python (Flask)** and **MySQL**
 - 🤝 Previously interned as a **Frontend Web Developer** building responsive UI with HTML, CSS & JavaScript
 - 🎯 Looking for **Web Development / Mobile Development internship** opportunities
-
 
 ---
 
@@ -49,27 +50,18 @@
 | 🔗 [**Secure Notes & Stego System**](https://github.com/aminashaheen056/Secure-notes-Stego-System) | Hides sensitive data inside text notes and audio files using steganography techniques | Python |
 | 🔗 [**Secure Information & DLP System**](https://github.com/aminashaheen056/Secure-Information-DLP-System) | Data loss prevention system to detect, monitor, and protect sensitive information | Python · HTML · CSS · MySQL |
 | 🏨 **Hotel Management System** | Desktop app to manage room booking, customer registration & billing | Java (Swing) · MySQL |
-| 🌐 **Smart University Campus Network** | Simulated a secure, VLAN-segmented campus network with routing, NAT & DNS/DHCP | Cisco Packet Tracer |(https://github.com/aminashaheen056/Smart-University-Campus-Network)
+| 🔗 [**Smart University Campus Network**](https://github.com/aminashaheen056/Smart-University-Campus-Network) | Simulated a secure, VLAN-segmented campus network with routing, NAT & DNS/DHCP | Cisco Packet Tracer |
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aminashaheen056&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminashaheen056&hide_border=true" alt="GitHub Streak" width="48%" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
+
+📧 aminashaheen804@gmail.com
 
 *Open to Web & Mobile Development internship opportunities  feel free to reach out!*
 
