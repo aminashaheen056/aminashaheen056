@@ -49,7 +49,7 @@
 | 🔗 [**Secure Notes & Stego System**](https://github.com/aminashaheen056/Secure-notes-Stego-System) | Hides sensitive data inside text notes and audio files using steganography techniques | Python |
 | 🔗 [**Secure Information & DLP System**](https://github.com/aminashaheen056/Secure-Information-DLP-System) | Data loss prevention system to detect, monitor, and protect sensitive information | Python · HTML · CSS · MySQL |
 | 🏨 **Hotel Management System** | Desktop app to manage room booking, customer registration & billing | Java (Swing) · MySQL |
-| 🌐 **Smart University Campus Network** | Simulated a secure, VLAN-segmented campus network with routing, NAT & DNS/DHCP | Cisco Packet Tracer |
+[| 🌐 **Smart University Campus Network** | Simulated a secure, VLAN-segmented campus network with routing, NAT & DNS/DHCP | Cisco Packet Tracer |](https://github.com/aminashaheen056/Smart-University-Campus-Network)
 
 ---
 
