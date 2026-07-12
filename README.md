@@ -43,7 +43,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔗 [**To-Do List Web App**](https://github.com/aminashaheen056/TODO-List) | Full-stack task manager — add, edit, complete & delete tasks with a live progress tracker | Flask · HTML · CSS · JavaScript |
+| 🔗 [**To-Do List Web App**](https://github.com/aminashaheen056/TODO-List) | Full-stack task manager add, edit, complete & delete tasks with a live progress tracker | Flask · HTML · CSS · JavaScript |
 | 🔗 [**Secure Notes & Stego System**](https://github.com/aminashaheen056/Secure-notes-Stego-System) | Hides sensitive data inside text notes and audio files using steganography techniques | Python |
 | 🔗 [**Secure Information & DLP System**](https://github.com/aminashaheen056/Secure-Information-DLP-System) | Data loss prevention system to detect, monitor, and protect sensitive information | Python · HTML · CSS · MySQL |
 | 🏨 **Hotel Management System** | Desktop app to manage room booking, customer registration & billing | Java (Swing) · MySQL |
