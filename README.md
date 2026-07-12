@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Amina Shaheen 👋
+# Hi there, I'm Amina Shaheen 
 
 ### Software Engineering Student | Web & App Developer in the making
 
@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
-
-📧 **aminashaheen804@gmail.com**
 
 </div>
 
@@ -61,7 +59,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-shaheen56/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminashaheen804@gmail.com)
 
-📧 aminashaheen804@gmail.com
 
 *Open to Web & Mobile Development internship opportunities  feel free to reach out!*
 
